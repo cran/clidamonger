@@ -10,7 +10,8 @@ The package consists of the following dataframes:
   By month and by DWD climate station: average external air temperature (TA) in °C; for specific base temperatures: heating and cooling days (HD_10, HD_12, HD_15, CD_18, CD_20, CD_22), external air temperature during heating and during cooling days (TA_10, TA_12, TA_15, TAc_18, TAc_20, TAc_22).
 
 - **"data.sol"**
-  By geographical coordinates for Germany (latitude and longitude distances 0.02°): average shortwave radiation on horizontal surfaces (I_Hor) in W/m², listed .
+  Monthly values published by CM SAF
+  Geographical coordinates for Germany (latitude and longitude distances 0.02°): average shortwave radiation on horizontal surfaces (I_Hor) in W/m², listed .
 
 - **"list.station.ta"**
   By DWD station: geographical coordinates.
