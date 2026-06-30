@@ -4,7 +4,7 @@
 
 The R data package "clidamonger" is based on the data tables of the Excel workbook "Gradtagzahlen-Deutschland.xlsx" (published and updated twice a year by the ["Institut Wohnen und Umwelt GmbH"](https://iwu.de) in Germany). The dataframes derived from the workbook tables are usable for heating and cooling calculations (external temperature, heating / cooling days, solar radiation).
 
-The version 1.4.0 includes DWD climate data from January 1991 to May 2025. The next update is scheduled for February 2026 for data until December 2025.
+The version 1.6.0 includes DWD climate data from January 1991 to May 2026. The next update is scheduled for February 2027 for data until December 2026.
 
 The package consists of the following dataframes:
 
@@ -156,4 +156,4 @@ Handling of missing values: Cells are empty
 
 ---
 
-IWU 2025-07-07
+IWU 2026-06-23
